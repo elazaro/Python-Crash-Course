@@ -1,5 +1,11 @@
 #!/usr/bin/env python3.9
 
+# This example uses lstrip, rstrip and strip, still I think some questions may
+# come up with it. for example, is there a built-in method to stripping multi-
+# ple consecutive blank spaces at any possition on the string or we must always
+# have to use a combination of methods, regex, maybe? how knows, let's discover
+# it.
+
 firstname = " augusta "
 middlename = " ada "
 lastname = " byron "
